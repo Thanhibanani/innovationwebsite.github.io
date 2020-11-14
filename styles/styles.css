@@ -264,6 +264,24 @@ section:nth-child(5) {
   text-align: center;
 }
 
+section.Contact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 240, 234);
+  flex-direction: column;
+  padding-bottom: 100px;
+  
+}
+
+section.Contact span{
+  font-size: 50px;
+  font-weight: 700;
+  color: #6e1200;
+  margin-top:100px;
+
+
+}
 /* main ends */
 
 /* footer starts */
